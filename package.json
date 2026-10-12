@@ -1,0 +1,24 @@
+{
+  "name": "node-expressjs",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/SAND3SH7/Node-ExpressJs#readme",
+  "bugs": {
+    "url": "https://github.com/SAND3SH7/Node-ExpressJs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SAND3SH7/Node-ExpressJs.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "10-faSync.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "lodash": "^4.18.1"
+  }
+}
